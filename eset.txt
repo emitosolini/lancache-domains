@@ -20,7 +20,6 @@ um16.eset.com
 update.eset.com
 eu-update.eset.com
 us-update.eset.com
-pico.eset.com
 download.eset.com
 avcloud.e5.sk
 dnsj.e5.sk
