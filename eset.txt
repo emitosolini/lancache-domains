@@ -52,4 +52,3 @@ h3-repository02-v.eset.com
 91-228-167-25.ptr.eset.com
 nocdn-repository.gtm.eset.com
 reponocdn.wip.eset.com
-repositorynocdn.eset.com
