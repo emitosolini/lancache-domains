@@ -17,7 +17,6 @@ um21.eset.com
 um23.eset.com
 um01.cn.eset.com
 um16.eset.com
-update.eset.com
 eu-update.eset.com
 us-update.eset.com
 download.eset.com
