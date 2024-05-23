@@ -39,7 +39,6 @@ h1-aidc01.eset.com
 h3-aidc01.eset.com
 h5-aidc01.eset.com
 augur.scanners.eset.systems
-repository.eset.com
 repous.wip.eset.com
 us-repository.eset.com
 us-repository.gtm.eset.com
