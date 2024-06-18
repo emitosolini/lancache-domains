@@ -1,1 +1,2 @@
 compartida.tem.com.ar
+pxeboot.tem.com.ar
